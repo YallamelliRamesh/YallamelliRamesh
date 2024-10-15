@@ -1,0 +1,11 @@
+1)tables
+2)factors
+3)second largest number 
+4)box
+5)printing three digit excluding 5 multiples
+6)infinite num as ip add
+7)lcm
+8)digital clock
+9)prime or not
+10)sum of digits
+11)calculator
